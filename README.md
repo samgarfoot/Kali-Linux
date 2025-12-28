@@ -2,7 +2,7 @@
 
 ## Objective
 
-This project focused on setting up a Kali Linux virtual machine to create a controlled and secure lab environment for cybersecurity testing and learning. The objective was to successfully install and operate Kali Linux within a virtualized environment and configure a VPN to ensure secure network connectivity. Through this project, I strengthened my understanding of Kali Linux, Linux networking fundamentals, and secure lab setup, while gaining hands-on experience working with tools and techniques used in real-world security analysis.
+This project focused on setting up a Kali Linux virtual machine to create a controlled and secure lab environment for cybersecurity testing and learning. The objective was to successfully install and operate Kali Linux within a virtualised environment and configure a VPN to ensure secure network connectivity. Through this project, I strengthened my understanding of Kali Linux, Linux networking fundamentals, and secure lab setup, while gaining hands-on experience working with tools and techniques used in real-world security analysis.
 
 ### Skills Learned
 
