@@ -55,5 +55,6 @@ The appearance of the “Initialization Sequence Completed” message confirms t
 ##
 <br>
 <img width="1441" height="999" alt="Screenshot 2025-12-28 at 07 40 00" src="https://github.com/user-attachments/assets/251729e7-ab50-4cb8-b7c0-d1deac822990" />
+
 ### Reference 7
 A quick IP address check confirms that the VPN connection is active, showing that my IP address has changed from the earlier configuration (Ref 3) and is now detected as being located in Canada.
