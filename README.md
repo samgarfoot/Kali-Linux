@@ -12,9 +12,9 @@ This project focused on setting up a Kali Linux virtual machine to create a cont
 
 ### Tools Used
 
-- Virtualbox for running the Kali linux VM on.
-- Kali Linux, the secure environment created.
-- OpenVPN this was the VPN software configured to secure my environment.
+- [Virtualbox](https://www.virtualbox.org) for running the Kali linux VM on.
+- [Kali Linux](https://www.kali.org/get-kali/#kali-platforms), the secure environment created.
+- [OpenVPN](https://openvpn.net) this was the VPN software configured to secure my environment.
 
 ## Steps
 
